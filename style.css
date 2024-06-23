@@ -1,5 +1,7 @@
 
 h1{
-    color: rgb(0, 255, 13);
-    background-color: aqua;
+    color: black;
+}
+body{
+    background-color: chartreuse;
 }
